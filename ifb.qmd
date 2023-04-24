@@ -1,0 +1,475 @@
+---
+title: "Geschlechterunterschiede in der Vererbung und Verschenkung von Vermögen  <br>"
+author: "<br>  Daria Tisch<br> <br> <br> <br> ![](images/MPIfG_schriftzug.jpg)"
+subtitle: " <br> ifb Forschungskolloquium  am  25.04.2023"  
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    preview-links: auto
+    #chalkboard:
+    #  boardmarker-width: 5
+    #show-notes: False
+    pdf-separate-fragments: false
+    pdf-max-pages-per-slide: 1
+    embed-resources: true
+editor: visual
+slide-number: c
+  #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
+#bibliography: references.bib
+bibliography: references.bib
+---
+
+## Geschlechterspezifische Vermögensungleichheiten {.h2center}
+
+![](images/luecke_gekauft.jpg){.absolute top="105" left="0" width="100%"}
+
+::: notes
+-   Vielen Dank für die Einladung in das Forschungskolloquium. Ich freue mich sehr, hierzusein und heute über Geschlechterunterschiede in der Vererbung und Verschenkung von Vermögen zu sprechen.
+-   Ich möchte anfangen mit dem Gender wealth gap, also geschlechterspezifischen Vermögensungleichheiten. Die bisherige Forschung hat bereits eindrücklich gezeigt, dass Frauen weniger Vermögen besitzen als Männer. Im Durchschnitt sind das 30,000 Euro in D.
+-   Bei der Erklärung dieser Lücke hat sich die bisherige Forschung auf Geschlechterunterschiede auf dem Arbeitsmarkt konzentriert (unterschiedl. Einkommen, Arbeitsstunden) und die Familie nur beachtet, indem Paare bestimmen, wie sie ihre Arbeitszeit aufteilen wollen
+-   Aber die FAmilie kann Vermögensungleichheiten zwischen Männern und Frauen auch durch intergenerationale Transfers beeinflussen. Und dies heute mehr denn je.
+-   Offen ist also die Frage, ob die Familie durch finanzielle Transfers eher dazu beiträgt, geschlechterspezifische Vermögensungleichheiten zu vermindern oder ob die Familie diese eher verstärkt.
+:::
+
+## Geschlechterunterschiede in der Vererbung und Verschenkung von Vermögen
+
+![](images/transfers.jpg){fig-align="center"}
+
+::: notes
+-   Also wollen wir uns heute mit intergenerationalen Transfers beschäftigen, also von finanziellen Transfers von Eltern an ihre Kinder. Das kann in Form von Erbschaften oder Schenkungen geschehen.
+-   Intergenerationale Transfers werden immer wichtiger für den Vermögensaufbau der jüngeren Generation. Ökonomen schätzten, dass mehr als die Hälfte des Privatvermögens heute vererbt wurde. Das zeigt wie wichtig Erbschaften und Schenkungen sind. Ich bin daran interessiert, wie sich diese Transfers auf die Geschlechterunterschiede im Vermögen auswirken.
+:::
+
+## Geschlechterunterschiede in der Vererbung und Verschenkung von Vermögen
+
+::: columns
+::: {.column width="49%"}
+::: {style="text-align: center"}
+[Einstellungen]{style="color:darkred;text-align:center;font-size:45px"}
+:::
+
+-   Wie werden ungleiche Transfers bewertet?
+-   Nach welchen Gerechtigkeitsprinzipien werden Schenkungen von Eltern an ihre Kinder bewertet?
+
+→ Analyse von Einstellungen mit Hilfe von eigenem Vignettenexperiment
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="49%"}
+::: {style="text-align: center"}
+[Tatsächliches Verhalten]{style="color:darkred;text-align:center;font-size:45px"}
+:::
+
+-   Erhalten Töchter mehr oder weniger Transfers als Söhne?
+-   Gibt es Geschlechterunterschiede in der Art des Transfers? Z.B Erbschaft versus Schenkungen oder Vermögenskomponenten
+
+→ Analyse von administrativen Erbschafts- und Schenkungssteuerdaten
+:::
+:::
+
+::: notes
+Ich möchte Geschlechterunterschiede in der Vererbung und Verschenkung von Vermögen heute von zwei Seiten betrachten. Einerseits finde ich es wichtig, sich Einstellungen anzuschauen. Also sich zu fragen: Welche Aufteilung von Transfers zwischen Kindern finden Menschen gerecht? Welche Gerechtigkeitsprinzipien spielen beim Transfer von Vermögen eine Rolle und könnten diese Gerechtigkeitprinzipien geschlechterspezifisch sein? Um die Gerechtigkeitsprinzipien zu identifizieren habe ich ein Vignettenexperiment durchgeführt.
+
+Andererseits ist es auch wichtig, das tatsächliche Verhalten anzuschauen. Also was sind die Fakten? Bekommen Söhne mehr Transfers von ihren Eltern? Erhalten Söhne andere Vermögenskomponenten? Dies schaue ich mir mit administrativen Daten an: Erbschafts-und Schenkungssteuerstatistiken
+:::
+
+## Bisherige Literatur
+
+### Geschlechterunterschiede im Transferverhalten?
+
+-   Europa & Korea: Söhne erhalten mehr und öfters Schenkungen und unterschiedliche Vermögenskomponenten [@wong2013; @deindl2011]
+-   Deutschland: Kaum Unterschiede bei Erbschaften, aber bei Schenkungen [@vogel2021; @bach2016; @leopold2011a]
+
+### Geschlechterspezifische Gerechtigkeitsprinzipien?
+
+-   Bisher keine direkten Untersuchungen von Gerechtigkeitsprinzipien
+
+-   Wahrscheinlichkeit, nach Scheidung Schenkungen zu erhalten ist größer für Töchter in USA aber nicht in Deutschland [@leopold2011; @mcgarry2016]
+
+-   USA: Unverheiratete Töchter erhalten häufiger Schenkungen [@loxton2019]
+
+::: notes
+-   Was sagt uns die bisherige Literatur? Bezüglich Geschlechterunterschiede im Transferverhalten zeigt sich, dass in Europ und Korea Söhne tatsächlich etwas mehr und etwas öfters Schenkungen erhalten und dass sie andere Komponenten bekommen. Zum Beispiel eher Land und Unternehmen
+-   Bei Erbschaften finden sich allerdings kaum Unterschiede. Doch das kann auch an den Daten liegen: Im SOEP zB wird in der letzten Welle nur gefragt, ob und in welcher Höhe die letzten Erbschaften waren aber nicht von wem sie kamen. Da Frauen länger leben, erben sie häufiger zB von ihren Männern
+-   Und was sagt die Forschung zu geschlechterspezifischen Gerechtigkeitsprinzipien? Diese wurden bisher kaum direkt erforscht. Aber aus Verhalten lassen sich Gerechtigkeitsprinzipien ableiten.
+-   zB findet die Forschung, dass eine Scheidung einen größeren Effekt für die Wahrscheinlichkeit eines Transfers für Frauen als für Männer hat. Dies allerdings nur für die USA. Das spricht dafür, dass bei Frauen das Bedürftigkeitsprinzip stärker angewendet wird.
+-   Geschlechterspezifischer Effekt von Ehe [@loxton2019]
+:::
+
+## Studie 1: Umfrageexperiment {.h2center}
+
+![](images/unequal_but_just.png){.absolute top="105" left="250"}
+
+::: notes
+Kommen wir nun also zur ersten der beiden Studien. Diese Studie ist schon veröffentlicht im Socio-economic review. Das war ein gemeinsames Projekt mit Tamara Gutfleisch. Das Hauptziel der Studie war es, geschlechterspezifische Gerechtugkeitsprinzipien bei elterlichen Schenkungen zu identifizieren und hierfür haben wir ein Vignettenexperiment erhoben.
+
+Es gibt ja unterschiedliche Prinzipien, nach denen Eltern ihre Vermögen unter den Kindern aufteilen können. Stellen Sie sich doch bitte einmal ein Paar vor, das 2 erwachsene Kinder hat. Einen Sohn und eine Tochter. Die Tochter ist 2 Jahre älter als der Sohn. Sie geht regelmäßig für die Eltern einkaufen und hilft den Eltern im Alltag. Sie hat einen Job, indem sie gut verdient. Der Sohn ist arbeitslos und hilft den Eltern eher nicht. Nun wollen die Eltern 10,000 Euro unter den Kindern aufteilen, was finden Sie, wäre eine faire Aufteilung?
+
+ich gebe ihnen ein paar Sekunden...
+
+Wahrscheinlich gingen ihnen jetzt einige Gerechtigkeitsprinzipien durch den Kopf: Gleichheit war bestimmt dabei. Sie dachten eventuell dass die Eltern das Geld gleich zwischen den Kindern aufteilen sollten. Es kann auch sein, dass sie an Bedürftigkeit gedacht haben. Also dass der Sohn mehr bekommen sollte, weil er arbeitslos ist. Oder dachten sie eventuell an das Austauschprinzip? Also dass die Tochter mehr bekommen sollte, weil sie den Eltern hilft? Oder dachten sie womöglich sogar, dass Die Tochter mehr bekommen sollte, weil sie erstgeboren ist?
+:::
+
+## Theorien und Hypothesen
+
+::: columns
+::: {.column width="75%"}
+1.  Gleichheitsprinzip <br> → Gleiche Aufteilung der Schenkung zwischen den Kindern
+2.  "Equity"-Prinzip (Leistungsprinzip) <br> → Proportionale Aufteilung nach der Gegenleistung der Kinder, stärker für Söhne <br>
+3.  Bedürftigkeitsprinzip <br> → Proportionale Aufteilung nach der Bedürftigkeit der Kinder, stärker für Töchter
+4.  Anspruchsprinzip <br> → Aufteilung nach zugeschriebenen Statuseigenschaften (Geschlecht, Alter): mehr für Erstgeborene und mehr für Söhne
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+![](images/equal.png) <br> ![](images/HILFE.png) <br> ![](images/need.png) <br> ![](images/birth.png) <br>
+:::
+:::
+
+::: notes
+Es gibt also mehrere Gerechtigkeitsprinzipien und ich möchte nun unsere Hypothesen durchgehen.
+
+1.  Wenn Menschen das Gleichheitsprinzip anwenden, sollten die Kinder genau gleich viel erhalten
+2.  Wird das Leistungsprinzip oder Austauschprinzip angewandt, erhalt das Kind mehr, dass mehr im Haushalt der Eltern hilft. Wir erwarten, dass dieser Effekt für Männer stärker ist, da von Frauen sowieso Hilfe erwartet wird
+3.  Wenn das Bedürftigkeitsprinzip angwendet wird, dann soll das Kind, das bedürftiger ist, mehr erhalten. Wir argumentieren, dass dieses Prinzip stärker für Töchter sein sollten. Da Töchter dem traditionallen Rollenverständnis eher versorgt werden sollen
+4.  Zuletzt könnte das Anspruchsprinzip Zuspruch erfahren, demnach wir das Geld nach zugeschriebenen Statuseigenschaften aufgeteilt werden. Zum beispiel mehr an Erstgeborene oder mehr für Söhne
+:::
+
+## Daten & Methoden
+
+<br>
+
+### Methode
+
+-   Vignettenexperiment (Multifactorial survey experiment): Befragte sollten Schenkung zwischen der Tochter und dem Sohn eines hypothetischen Paares aufteilen
+-   Abhängige Variable: Aufteilung von 10.000 Euro zwischen Tochter und Sohn
+-   Erklärende Variablen: Randominisierte Eigenschaften der Kinder
+-   3 x 3 x 3 Design
+
+### Daten
+
+-   SoSci Panel (2020) (Online Access Panel)
+-   714 Befragte, 2.142 Vignettenevaluationen
+
+::: notes
+Wir haben also ein Vignettenexperiment durchgeführt. Die Idee ist, dass man die Eigenschaften der Kinder systematisch varriert, um dann den Einfluss der Eigenschaften auf die faire Aufteilung identifizieren kann. Unsere abhängige Variable ist die Aufteilung von 10,000 Euro.
+
+Zum Design sage ich gleich noch was.
+
+Die Daten haben wir mit Hilfe des SoSci Panels erhoben und wir hatten 714 Befragte. Da jede Person 3 Vignetten beantwortet hatte, hatten wir 2142 Vignettenevaluationen-
+:::
+
+## Experimentelle Bedingungen
+
++---------------+---------------------------------+
+| Dimension     | Ausprägungen (Levels)           |
++===============+=================================+
+| Erstgeburt    | 1.  Sohn erstgeboren            |
+|               | 2.  Zwillinge                   |
+|               | 3.  Tochter erstgeboren         |
++---------------+---------------------------------+
+| Hilfe         | 1.  Sohn hilft \|               |
+|               | 2.  Beide helfen \|             |
+|               | 3.  Tochter hilft               |
++---------------+---------------------------------+
+| Bedürftigkeit | 1.  Sohn arbeitslos             |
+|               | 2.  Beide verdienen gleich viel |
+|               | 3.  Tochter arbeitslos          |
++---------------+---------------------------------+
+
+::: notes
+Kommen wir zu den varrierenden Eigenschaften der Kindern:
+
+Wir haben die Erstgeburt, die Hilfe bei den Eltern und die Bedürftigkeit variiert und so ein 3\*3\*3 Design. Schauen wir uns im folgenden eine Beispielsvignette an
+:::
+
+## Vignettenbeispiel
+
+![](images/vignette.png){fig-align="center"}
+
+## Ergebnisse: vorhergesagte Werte
+
+![](images/margins_dau.png){fig-align="center"}
+
+::: notes
+Dann kommen wir nun zu den Ergebnissen. Hier sehen Sie vorhergesagte Werte. Das heißt, die Y-Achse zeigt an, wie viel Geld, die Tochter bekommen soll. Man sieht, dass die Tochter am meisten bekommen soll, wenn sie arbeitslos ist und wenn sie den Eltern hilft. Am wenigsten soll sie bekommen, wenn nur ihr Bruder hilft und nur der Bruder arbeitslos ist. Aber schauen wir uns die Regressionskoeffizienten genauer an.
+:::
+
+## Ergebnisse: Regressionskoeffizienten
+
+![](images/marginsplot.png){fig-align="center"}
+
+::: notes
+Schauen wir uns erst einmal die neutralen Ergebnisse an: Also den dunkelgrauen Marker, die Raute. Wir sehen, dass die Geburtenreihenfolge keine Rolle spielt. Wir sehen, dass das Kind, das mehr hilft, im Schnitt 264 Euro mehr bekommen sollte. Und das Kind, das arbeitslos ist, 260 Euro mehr. Interessanterweise sehen wir hierbei Geschlechterunterschiede: Hilfe im Haushalt hat einen größeren Effekt für Söhne, sie bekommen also mehr, wenn sie helfen. Und dafür bekommen Töchter mehr, wenn sie arbeitslos sind.
+:::
+
+## Ergebnisse und Schlussfolgerungen
+
+-   65% der Befragten haben die 10,000 EUR in allen drei Vignetten gleich zwischen den Kindern aufgeteilt
+-   Große Evidenz für das Gleichheitsprinzip
+-   Aber Gleichheitsprinzip konkurriert mit Bedüftigkeits- und Austauschprinzip
+-   Wenig Evidenz für das Anspruchsprinzip (nur in Verbindung mit Bedüftigkeits- und Austauschprinzip)
+
+### Gerechtigkeitsprinzipien als Erklärung von Geschlechterunterschieden in Vermögen?
+
+-   Familie könnte Ungleichheiten ausgleichen (Bedürftigkeitsprinzip)
+-   Kein Hinweis, dass vorherrschende Gerechtigkeitsprinzipien ungleiche Verteilung von Schenkungen zwischen Töchtern und Söhnen rechtfertigen → Situationsabhängigkeit
+-   Aber spiegeln sich egalitäre Einstellungen in Transferverhalten wieder?
+
+::: notes
+-   Was ich bisher noch nichz gezeigt habe: Wir finden, dass 65% der Befragten das geld in allen 3 Vignetten gleich aufgeteilt haben. Das heißt, das Gleichheitsprinzip dominiert. Die Effekt sind ja auch relativ klein. was sind schon 300€ mehr bei 5000 Euro die jeder bei Gleichheit erhalten würde?
+
+-   Norm der Gleichbehandlung von Kindern weit verbreitet, aber dennoch werden Ungleichheiten durch Gegenleistung sowie Bedürftigkeit legitimiert.
+
+-   Wir finden keine Evidenz für das Anspruchsprinzip nach Geburt
+
+-    Direkte Diskriminierung von Töchtern oder Söhne wird als unfair abgelehnt, allerdings finden wir Hinweis auf geschlechterspezifische Legitimation von Ungleichheiten
+
+-   Können nun Gerechtigkeitsprinzipien das Gender Wealth Gap erklären?
+
+-   Familie könnte sehrwohl Ungleichheiten ausgleichen, wenn nach dem Bedürftigkeitsprinzip verschenkt/vererbt wird
+
+-   Nun schauen wir im nächsten Schritt, ob sich diese egalitären Normen im tatsächlichen Transferverhalten widerspiegeln!
+:::
+
+## 
+
+::: {style="font-size: 2.5em; text-align: center"}
+<br>
+
+<br> [Studie 2: <br> Tatsächliches Verhalten]{style="color:darkred;text-align:center"}
+
+[(work in progress, <br> together with Manuel Schechtl)]{style="text-align:center"}
+:::
+
+::: notes
+Das tatsächliche Transferverhalten schaue ich mir in einer neuen Studie gemeinsam mit Manuel Schechtl an.
+:::
+
+## Geschlechterspezifische Transfers an der Spitze der Transferverteilung
+
+-   Trotz Gleichheitsnorm, können ungleiche Transfers an Söhne und Töchter gerechtfertigt werden.
+-   Dynastisches Prinzip: Eltern möchten, dass bestimmte Vermögenskomponenten ("Structuring Assets") in der Familie gehalten und nicht aufgeteilt werden [@bessière2023]
+-   Eltern wählen Erben der strukturierenden Vermögenskomponenten nach bestimmten Charakteristiken aus. Unbewusster Geschlechterbias?
+-   Tochter und Söhne erhalten andere Vermögenskomponenten mit unterschiedlichen Akkumulationspotential
+
+### Gibt es Geschlechterunterschiede im Transfer von großen Vermögen?
+
+::: notes
+Also trotz der Gleichheitsnorm kann es zu ungleichen Transfers zwischen Söhnen und Töchtern kommen. Insbesondere an der Spitze der Transferverteilung. Denn ein Prinzip, was wir im Experiment nicht getestet haben ist das dynastische Prinzip. Demnach möchten Eltern bestimmte Vermögenskommenten "die Strukturierenden Komponenten" nicht aufteilen, da sonst die Gefahr besteht, dass die Familie diese Vermögenskomponenten verliert.
+
+Eltern könnten also einen Erben für die strukturierenden Komponenten auswählen und hier könnte es zu einem unbewussten geschlechterbias kommen. Natürlich könnte auch direkt diskriminiert werden, es könnte aber auch sein, dass Frauen nicht die Eigenschaften aufweisen, die es benötigt, um das Familienunternehmen zB weiterzuführen. Dies könnten dann strukturelle Geschlechterunterschiede sein
+
+Wir fragen: Gibt es Geschlechterunterschiede im Transfer von großen Vermögen?
+
+Erhalten Töchter und Söhne unterschiedliche Vermögenskomponenten?
+
+Erhalten Söhne mehr Transfers? Unterscheidet sich die Höhe der Transfers?
+
+-   
+-   Beitrag: 1) Fokus auf dem oberen Ende der Transferverteilung 2) Differenzierung zwischen Vermögenskomponenten. But even if their are no gendered beliefs, gender difference might arise. Parents might be in a conflict between pursing the principle of equality but also other principles like the exchange or need/altruistic principle. The parents might also want to keep the fortunes together. To this end it might make sense to transfer wealth unequally between children. So it might be the case that there are gender differences in the characteristics which trigger these principles. For example that women are more likely to be in need of financial help and therefore receive more transfers.
+:::
+
+## Daten
+
+::: columns
+::: {.column width="40%"}
+![](images/steuererkl.jpg){.absolute top="100" left="0" width="400"}
+:::
+
+::: {.column width="60%"}
+-   Erbschafts- und Schenkungssteuerstatistik (2007-2020)
+-   Beinhalten alle Schenkungen und Erbschaften für die eine Steuererklärung angefordert wurde
+-   Vorteil: Vollerhebung aller steuerlich relevanten Transfers
+-   Nachteil: Niedrige Erbschaften und Schenkungen nicht enthalten. Beinhalten etwa 30% aller Erbschaften, die allerdings 73% aller Transfers über 10.000 EUR ausmachen [@bach2014]
+:::
+:::
+
+::: notes
+
+Ein paar Infos zu den Daten
+:::
+
+## Deutsches Erbschafts- und Schenkungs(steuer)recht
+
+-   Erbschaften
+    -   Testament (Vermächntnisse und Erbquote) oder gesetzliche Erbfolge
+    -   eingeschräkte Testierfreiheit: Enterben möglich, aber Pflichtteilanspruch!
+-   Schenkungen: keine Einschränkungen, vollkommene Freiheit
+-   Erbschafts- und Schenkungssteuer
+    -   persönliche Freibeträge: zB 400.000 EUR alle 10 Jahre pro Elternteil
+    -   sachliche Freibeträge: Unternehmen, Land/Forst, Familienheim, persönliche Gegenstände
+
+::: notes
+Ich möchte noch kurz auf das Erbschafts- und Schenkungsssteuerrecht eingehen.
+:::
+
+## Methode
+
+### Analyseverfahren
+
+-   Deskriptive Analysen
+-   OLS Regressionen
+
+### Variablen
+
+-   Steuerrelevante Transfers: Erbschaften und Schenkungen
+-   Vermächtnisse
+
+## Geschlechterunterschiede in steuerrelevanten Transfers
+
++------------+------------+----------------------------+--------------------------------------------+
+|            | Statistik  | Verhältnis (Männer/Frauen) | Lücke <br> (((Frauen-Männer)/Männer)\*100) |
++============+============+============================+============================================+
+| Schenkung  | mean       | 1.11                       | -9.91                                      |
++------------+------------+----------------------------+--------------------------------------------+
+| Erbschaft  | mean       | 1.07                       | -6.73                                      |
++------------+------------+----------------------------+--------------------------------------------+
+| Schenkung  | N          | 1.43                       | -29.87                                     |
++------------+------------+----------------------------+--------------------------------------------+
+| Erbschaft  | N          | 1.08                       | -7.09                                      |
++------------+------------+----------------------------+--------------------------------------------+
+| Schenkung  | Summe      | 1.59                       | -37.06                                     |
++------------+------------+----------------------------+--------------------------------------------+
+| Erbschaft  | Summe      | 1.15                       | -13.28                                     |
++------------+------------+----------------------------+--------------------------------------------+
+
+::: notes
+Männer erhielten nicht nur in der Summe und im Mittel weniger als Frauen, vor allem die Anzahl der Schenkungen ist enorm. Die Lücke liegt hier bei 30%, sprich Töchter erhielten im Zeitraum 30% weniger steuerlich relevante Schenkungen von ihren Eltern als Söhne.
+
+Unterschiede sind größer bei Schenkungen im Vergleich zu Erbschaften. Das alleine ist schon problematisch, da man Schenkungen früher im Lebensverlauf erhält und somit größeres Akkumulationspotential hat.
+
+Für den Vermögensaufbau ist es nicht nur relevant, wann man einen Transfer erhält (Schenkungen besser als Erbschaft), sondern auch welche Art von Vermögen man erhält. Unternehmensvermögen oder Immobilien haben größeres Investitionspotential als Bargeld zB.
+:::
+
+## Geschlechterverhältnis in der Anzahl an Transfers nach Transferart
+
+```{r}
+#| echo: false
+#| output: false
+Sys.info()['nodename']
+work_dir = ifelse(Sys.info()['nodename']=="P2010", 
+                  "C:/Users/ti/Local/seafile/main/---projects---/erbschaftsstatistik/gender_differences/after_fdz/code",
+                  ifelse(Sys.info()['nodename']=="P2101",
+                         "",
+                         ifelse(Sys.info()['nodename']=="DARIASLAPTOP",
+                                "D:/Seafile/main/---projects---/erbschaftsstatistik/gender_differences/after_fdz/code",
+                                "")))
+setwd(work_dir)
+getwd()
+source("generating_output_gender_differences_talk.R")
+
+```
+
+```{r}
+g_comp_result
+```
+
+::: notes
+Also schauen wir uns Geschlechterunterschiede in der Anzahl an Transfers nach Vermögenskomponenten an. Die Ungleichheiten sind besonders hoch bei Unternehmensvermögen (mehr das doppelt so häufig an Söhne), sowie bei Land- und Forstvermögen (fast 3 mal so häufig an Söhne). Dies ist der Fall sowohl wir Erbschaften als auch für Schenkungen, aber Unterschiede größer bei Schenkungen.
+:::
+
+## Geschlechterverhältnis in der Anzahl von Transfers nach Transferart, Vermögenskomponenten und Dezilen
+
+```{r}
+gcomp_dec_erb_gift
+```
+
+::: notes
+-   Das ist nun eine ähnliche Graphik, zeigt aber die Unterschiede entlang der Transferverteilung. Wir sehen, dass die Geschlechterunterschiede bei Schenkungen von Landvermögen besonders stark durch das obere Ende der Transferverteilung getrieben sind
+:::
+
+## Geschlechterunterschiede in den Vermächntnissen
+
+```{r}
+t_vermacht
+```
+
+::: notes
+Vermächtnisse sind bestimmte Vermögensgegenstände die an eine bestimmte Person vermacht werden, damit die Person nicht nur einen Anteil an etwas erhält, sondern tatsächlich den Gegenstand, also das Unternehmen oder das Haus. Hier sieht man, dass Töchter weniger häufig als Vermächtnisnehmerinnen genannt werden: 5% weniger und dass die mittlere Höhe von Vermächtnissen an Frauen circa 10 % geringer ist.
+:::
+
+## Regression: Schenkungen (2007-2020) {.scrollable}
+
+::: {style="font-size: 0.75em; text-align: center"}
+```{r}
+t_reg_gifts
+```
+:::
+
+::: notes
+-   Können wir die geschlechterspezifische Transferlücke nun durch andere Variablen erkären? Hierzu haben wir OLS regressionen gerechnet.
+-   Wir haben die Transferwerte in Perzentile umgewandelt und finden eine durchschnittliche Lücke von 1,9 Perzentilen. Also im Schnitt liegen die Transfers von Frauen 2 Perzentile unten denen von Männern. Wenn man aber auf alle möglichen Variablen kontrolliert, reduziert sich die Lücke auf 0.4.
+-   Model 1 kontrolliert nur auf Jahre
+-   Model 2 kontrolliert mit Dummies auf die Transferkomponenten. Die Lücke verkleinert sich, wenn man auf Unternehmen kontrolliert. genauso auf Grundvermögen
+-   Interessanterweise finden wir, dass es Männer sind, die für die Lücke verantwortlich sind. Also Männer verschenken vor allem an Männner höhere Transfers
+:::
+
+## Regression: Erbschaften (2007-2020) {.scrollable}
+
+::: {style="font-size: 0.75em; text-align: center"}
+```{r}
+t_reg_inheritance
+```
+:::
+
+::: notes
+-   Bei Erbschaften finden wir keine signifikanten Geschlechterunterschiede im Mittel.
+:::
+
+## Zusammenfassung
+
+### Geschlechterspezifische Einstellungen
+
+-   Gleichheitsnorm dominiert, aber in Konkurrenz mit Gerechtigkeitsprinzipien, die Ungleichheit in Transfers zwischen Kindern rechtfertigen
+-   Hinweise auf geschlechterspezifische Rechtfertigungen
+
+### Geschlechterunterschiede in steuerrelvanten Transfers
+
+-   Männer erhielten mehr Erbschaften und mehr Schenkungen
+-   Geschlechterunterschiede sind bei Schenkungen viel größer als bei Erbschaften: Rolle des Erbrechts?
+-   Geschlechterunterschiede variieren je nach Vermögenskomponente
+
+→ Zumindest an der Spitze der Transferverteilung spiegelt Transferverhalten nicht die Gleichheitsnorm wider
+
+::: {style="text-align: center"}
+[Contact:]{style="color:darkred;text-align:center"} [tisch\@mpifg.de]{style="text-align:center"} \| [<https://dariatisch.github.io/>]{style="text-align:center"}
+:::
+
+::: notes
+-   Also ich fasse zusammen
+-   Unsere erste Studie zeigte, dass die Gleichheitsnorm bei elterlichen Schenkungen sehr verbreitet ist, aber diese Norm durchaus in Konkurrenz mit anderen Gerechtigkeitsprinzipien steht.
+-   Wir finden Hinweise auf geschlechterspezifische rechtfertigungen von Ungleichheit
+-   Und bezüglich des Verhaltens finden wir, dass Männer nicht nur mehr Erbschaften und Schenkungen erhielten, sondern auch die Beträge größer waren
+-   Dies trifft vor allem auf Schenkungen zu.
+-   Und wir finden große Unterschiede bei den Vermögenskomponenten. Männer bekommen häufiger Betriebsvermögen und Land/Forst.
+:::
+
+## References
+
+::: {#refs}
+:::
+
+## Geschlechterunterschiede in steuerrelevanten Transfers {.appendix .hscroll}
+
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+|             | Statistic | Female          | Male            | Ratio (male/female) | Gap (((female-male)/male)\*100) |
++=============+===========+=================+=================+=====================+=================================+
+| Gift        | mean      | 1004463.98      | 1115012.93      | 1.11                | -9.91                           |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+| Inheritance | mean      | 772266.90       | 828004.81       | 1.07                | -6.73                           |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+| Gift        | N         | 112547.00       | 160483.00       | 1.43                | -29.87                          |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+| Inheritance | N         | 115639.00       | 124461.00       | 1.08                | -7.09                           |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+| Gift        | sum       | 117310465326.59 | 186390339335.89 | 1.59                | -37.06                          |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
+| Inheritance | sum       | 88705896524.37  | 102293945810.52 | 1.15                | -13.28                          |
++-------------+-----------+-----------------+-----------------+---------------------+---------------------------------+
